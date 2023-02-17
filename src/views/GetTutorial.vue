@@ -4,7 +4,7 @@
     <div class="content">
         <div class="general-info">
             <ul class="gi-list">
-                <li><h3>All emails MUST be sent to: gobeavdms@gmail.com</h3></li>
+                <li><h3>All emails MUST be sent to: osucscapstone@gmail.com</h3></li>
                 <li><h3>Get operations: <a href="#get-doc">GET DOCUMENT</a>, <a href="#get-proj">GET PROJECT</a>, <a href="#get-grp">GET GROUP</a>  </h3></li>
                 <li><h3>See the <router-link :to="{ name: 'save' }">SAVE </router-link> and <router-link :to="{ name: 'update' }">UPDATE </router-link> tutorial pages for detail on other operations.</h3></li>
                 <li><h3>Only fields displayed as bold in the images below are required, all other fields are optional. (You do not need to bold anything in the emails.)</h3></li>

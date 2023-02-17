@@ -4,7 +4,7 @@
     <div class="content">
         <div class="general-info">
             <ul class="gi-list">
-                <li><h3>All emails MUST be sent to: gobeavdms@gmail.com</h3></li>
+                <li><h3>All emails MUST be sent to: osucscapstone@gmail.com</h3></li>
                 <li><h3>Save operations: <a href="#save-doc">SAVE DOCUMENT</a>, <a href="#save-proj">SAVE PROJECT</a>, <a href="#save-grp">SAVE GROUP</a>  </h3></li>
                 <li><h3>See the <router-link :to="{ name: 'get' }">GET </router-link> and <router-link :to="{ name: 'update' }">UPDATE </router-link> tutorial pages for detail on other operations.</h3></li>
                 <li><h3>You only send and email with attachments when you are saving a document.</h3></li>
